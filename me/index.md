@@ -2,13 +2,11 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+HELLO, My name is Kevin J Sails Jr and i am a student athlete at the university of north carolina 
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+I am An cornerback and i am pursuing my dream to the Nfl 
 
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
+I am a man of god and believe heavily in god i am the most harderest worker you will ever meet. I love to work hard and im very comepetive.I
+I want to graduate in 3 years and i want to maintain a 3.0 or higher in my carrer at UNC.
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
