@@ -1,11 +1,7 @@
 ---
 layout: post
-title: My morning 
----
+title:  what i learned today 
 
-**TL;DR** Use [Jekyll and Github Pages](https://help.github.com/articles/about-github-pages-and-jekyll/) for a cheap and maintainable blog.
-
-Today my morning was a typical morning we got up at 7:00 AND WE HAD TO WORKOUT. 
-We also did sleds today which had my legs dead 
+we are creating a temporary file called answer.list then everything to the temporary file will be added to the csv file. That is called answer.csv One you do that you want to load that data into our table in the database that we created. Once you get that you take the database then you put in the file.
 
 
